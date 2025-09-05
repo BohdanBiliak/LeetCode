@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **Topics:** Array, Math  
-
+https://leetcode.com/problems/plus-one/
 ---
 
 ## Problem Statement
