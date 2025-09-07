@@ -16,3 +16,9 @@ Return the number of **distinct ways** you can climb to the top.
 
 ### Example 1
 
+Input: n = 2
+Output: 2
+Explanation:  
+There are two ways to climb 2 steps:
+1. `1 + 1`  
+2. `2`
